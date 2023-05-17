@@ -215,6 +215,18 @@ td, th {
     line-height: 1.5;
 }
 
+.itens:first-child {
+    font-weight: bold;
+}
+
+.itens:nth-child(5) {
+    color: red;
+}
+
+.itens:nth-child(2n) {
+    color: green;
+}
+
 .imagem-beneficios {
     width: 60%
 }
