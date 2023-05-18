@@ -94,10 +94,6 @@ footer {
     margin: 20px;
 }
 
-main {
-
-}
-
 form {
     margin: 40px 0;
 }
@@ -284,5 +280,19 @@ main > p {
 
     .lista-beneficios, .imagem-beneficios {
         width: 100%;
+    }
+
+    .produtos, .produtos li {
+        width: auto;
+        margin: 10px 10px 10px 10px;
+    }
+
+    .caixa {
+        text-align: center;
+    }
+
+    form {
+        margin-left: 5%;
+        width: auto;
     }
 }
