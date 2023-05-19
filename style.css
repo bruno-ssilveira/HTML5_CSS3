@@ -283,8 +283,8 @@ main > p {
     }
 
     .produtos, .produtos li {
-        width: auto;
-        margin: 10px 10px 10px 10px;
+        width: 300px;
+        margin: 10px auto;
     }
 
     .caixa {
